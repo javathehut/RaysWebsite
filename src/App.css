@@ -1,0 +1,9 @@
+.navbarStyle {
+  background-color: white;
+  color: black;
+  border-bottom: 2px solid black;
+}
+
+.logo {
+  width: 2.5em;
+}
