@@ -26,7 +26,6 @@ import img024 from './images/img024.jpg';
 import img025 from './images/img025.jpg';
 import img026 from './images/img026.jpg';
 import img027 from './images/img027.jpg';
-import img028 from './images/img028.jpg';
 
 
 const homeImages = [
@@ -57,9 +56,7 @@ const homeImages = [
     img024,
     img025,
     img026,
-    img027,
-    img028
-
+    img027
 ]
 
 export { homeImages };
